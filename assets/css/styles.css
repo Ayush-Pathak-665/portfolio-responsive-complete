@@ -218,6 +218,7 @@ img {
 }
 .home__blob-img {
   width: 360px;
+  border-radius: 10px;
 }
 
 /*BUTTONS*/
@@ -372,7 +373,8 @@ img {
     row-gap: 2rem;
   }
   .home__img {
-    width: 200px;
+    width: 100px;
+    border-radius: 10px;
   }
 }
 @media screen and (min-width: 576px) {
@@ -483,4 +485,8 @@ img {
   .home__img {
     width: 450px;
   }
+}
+#ayush{
+  border-radius: 15px;
+  height: 100px;
 }
